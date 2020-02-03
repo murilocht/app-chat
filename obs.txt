@@ -1,0 +1,5 @@
+- falta o node_modules
+
+- pode haver erros ao rodar o comando "npm i"
+
+- falta as credenciais do firebase (em app.components.ts)
